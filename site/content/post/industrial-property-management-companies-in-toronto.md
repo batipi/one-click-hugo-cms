@@ -1,5 +1,5 @@
 ---
-title: Industrial property management companies in toronto
+title: Industrial property management companies in Toronto
 date: 2017-10-12T19:54:26.068Z
 description: >-
   If you’re looking into companies that provide services for industrial property
