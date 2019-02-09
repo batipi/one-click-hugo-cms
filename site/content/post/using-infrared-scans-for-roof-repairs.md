@@ -1,6 +1,6 @@
 ---
-title: USING INFRARED SCANS FOR ROOF REPAIRS
-date: 2018-11-30T18:23:06.272Z
+title: Using Infrared Scans For Roof Repairs
+date: 2018-09-24T17:23:06.272Z
 description: >-
   An infrared scan is one of the best and most accurate tools available for
   detecting “problem areas” with your commercial flat roof.
